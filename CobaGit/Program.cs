@@ -7,6 +7,8 @@ namespace CobaGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.Write("apa itu commit");
+            Console.Write("awoakwokakowoa");
         }
     }
 }
